@@ -1,6 +1,6 @@
 // 04_06_AbFacChallenge_Start.cpp 
 //testing
-
+#if 0
 //#include "stdafx.h"
 #include <iostream>
 #include <windows.h>   // WinApi header
@@ -232,4 +232,6 @@ int main()
 
 	cout << endl;
 	system("pause");
+
 }
+#endif
