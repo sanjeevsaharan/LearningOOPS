@@ -1,6 +1,6 @@
 // 04_06_AbFacChallenge_Start.cpp 
 //testing
-#if 0
+#if 1
 //#include "stdafx.h"
 #include <iostream>
 #include <windows.h>   // WinApi header

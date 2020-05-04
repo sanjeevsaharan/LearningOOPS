@@ -15,7 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="STL\vector1.cpp">
+    <ClCompile Include="DesignPattern\FactoryPattern.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="STL\vector.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
